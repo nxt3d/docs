@@ -140,9 +140,9 @@ _Note that we use this command-line tool internally at Algolia to run the free h
 [6]: #integration
 [7]: https://scrapy.org/
 [8]: https://github.com/pypa/pipenv
-[9]: https://github.com/algolia/docsearch-scraper
+[9]: https://github.com/delegatable/delegatable-sol-scraper
 [10]: https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
 [11]: /docs/legacy/config-file
 [12]: http://chromedriver.chromium.org/getting-started
-[13]: https://github.com/algolia/docsearch-configs/tree/master/configs
+[13]: https://github.com/delegatable/delegatable-sol-configs/tree/master/configs
 [14]: /docs/legacy/dropdown

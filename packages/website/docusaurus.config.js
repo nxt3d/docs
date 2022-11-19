@@ -81,7 +81,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             //   position: 'right',
             // },
             {
-              href: 'https://github.com/algolia/docsearch',
+              href: 'https://github.com/delegatable/delegatable-sol',
               position: 'right',
               className: 'header-github-link',
             },
@@ -124,7 +124,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           //       },
           //       {
           //         label: 'Issues',
-          //         to: 'https://github.com/algolia/docsearch/issues',
+          //         to: 'https://github.com/delegatable/delegatable-sol/issues',
           //       },
           //       {
           //         label: 'Privacy',
@@ -137,7 +137,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           //     items: [
           //       {
           //         label: 'GitHub',
-          //         to: 'https://github.com/algolia/docsearch',
+          //         to: 'https://github.com/delegatable/delegatable-sol',
           //       },
           //       {
           //         label: 'Twitter',

@@ -559,7 +559,7 @@ To override it, from the configuration:
 }
 ```
 
-[1]: https://github.com/algolia/docsearch-configs/tree/master/configs
+[1]: https://github.com/delegatable/delegatable-sol-configs/tree/master/configs
 [2]: https://www.algolia.com/doc/guides/security/api-keys/#search-only-api-key
 [3]: https://www.algolia.com/doc/api-reference/api-parameters/facetFilters/
 [4]: https://www.algolia.com/doc/api-reference/settings-api-parameters/

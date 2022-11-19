@@ -2,7 +2,7 @@ blank_issues_enabled: false
 
 contact_links:
   - name: Documentation feedback
-    url: https://github.com/algolia/docsearch/issues/new
+    url: https://github.com/delegatable/delegatable-sol/issues/new
     about: Share with us issues about the DocSearch documentation.
 
   - name: Apply for DocSearch

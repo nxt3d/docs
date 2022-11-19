@@ -169,7 +169,7 @@ function ApplyForm() {
             name="repoURL"
             aria-label="The URL of your project repository"
             value={repo}
-            placeholder="https://github.com/algolia/docsearch, https://gitlab.com/gitlab-org/gitlab, etc..."
+            placeholder="https://github.com/delegatable/delegatable-sol, https://gitlab.com/gitlab-org/gitlab, etc..."
             onChange={handleSetRepo}
           />
         </LabelText>

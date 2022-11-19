@@ -121,4 +121,4 @@ docsearch({
 [4]: https://github.com/algolia/autocomplete/tree/master#global-options
 [5]: https://www.algolia.com/doc/api-reference/api-parameters/
 [6]: https://www.algolia.com/doc/api-reference/api-parameters/hitsPerPage/
-[7]: https://github.com/algolia/docsearch.js
+[7]: https://github.com/delegatable/delegatable-sol.js
