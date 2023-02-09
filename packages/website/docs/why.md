@@ -24,7 +24,7 @@ What if the Wallet has a partnership with a "Secret Flashbots Cabal" and the tra
 
 🤯 **A drastic example, but it illustrates the point!**
 
-**Bounded run-time permissions on transactions are very important.** Whether it's limiting attack attacks from bad actors or just dealing with bad network connection, Users should have the **power to decide when and how their transactions are executed.**
+**Bounded run-time permissions on transactions are very important.** Whether it's limiting attacks from bad actors or just dealing with bad network connection, Users should have the **power to decide when and how their transactions are executed.**
 
 ## Uniswap V2 - Real World Example
 
